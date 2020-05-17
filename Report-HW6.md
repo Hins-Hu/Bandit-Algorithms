@@ -21,7 +21,7 @@ regret shown in Figure 1 to Figure 6
 ![5.png](./images-HW6/0.4-0.6.png)
 <center style="font-size:14px;color:#000000">Figure 5: True Mean = (0.4, 0.6)</center>
 
-![6.png](./images-HW6/minimax.png)
+![6.png](./images-HW6/Minimax.png)
 <center style="font-size:14px;color:#000000">Figure 6: Minimax Regret</center>
 
 \
