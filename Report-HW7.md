@@ -6,6 +6,7 @@ For all other details information please see the [README.md](README.md)
 ## Plots
 Follow the recommendations of hyper-parameters in the handout, we have generate minimax regrets of the *UCB Algorithm*
 and the *LinUCB Algorithm* shown in Figure 1 to Figure 3
+
 ![n=10.png](./images-HW7/n=10.png)
 <center style="font-size:14px;color:#000000;text-decoration:bold">Figure 1: When n = 10</center>
 
