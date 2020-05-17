@@ -6,6 +6,7 @@ For all other details information please see the [README.md](README.md)
 ## Plots of Regret
 Follow the recommendations of hyper-parameters in the handout, we have generate regret of all policies as well as minimax
 regret shown in Figure 1 to Figure 6
+
 ![1.png](./images-HW6/0.2-0.8.png)
 <center style="font-size:14px;color:#000000;text-decoration:bold">Figure 1: True Mean = (0.2, 0.8)</center>
 
