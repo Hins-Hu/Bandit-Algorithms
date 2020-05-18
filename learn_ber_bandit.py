@@ -13,7 +13,7 @@ FLAGS = flags.FLAGS
 flags.DEFINE_string('out', 'data.out', 'file for generated data')
 flags.DEFINE_string('fig', 'figure.png', 'file for generated figure')
 flags.DEFINE_boolean('novar', True, 'do not show std in the output figure')
-flags.DEFINE_boolean('rm', True, 'remove previously generated data')
+flags.DEFINE_boolean('rm', False, 'remove previously generated data')
 flags.DEFINE_boolean('minimax', False, 'compute minimax regret based on given arms')
 flags.DEFINE_float('prob', 0.2, 'the true probability of the first arm')
 flags.DEFINE_integer('T', 1000, 'time horizon')
